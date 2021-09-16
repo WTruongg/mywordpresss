@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>TruongCr7</title>
+	<atom:link href="http://localhost/myproject/wordpress/feed/" rel="self" type="application/rss+xml" />
+	<link>https://wtruongg.github.io/mywordpresss</link>
+	<description>Hãng siêu Ferrari số 1 tại Việt Nam</description>
+	<lastBuildDate>Thu, 16 Sep 2021 14:32:39 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>TPO &#8211; Những chiếc xe đua đang có xu hướng trở nên thực dụng và phù hợp với nhiều người lái hơn.</title>
+		<link>https://wtruongg.github.io/mywordpresss/tpo-nhung-chiec-xe-dua-dang-co-xu-huong-tro-nen-thuc-dung-va-phu-hop-voi-nhieu-nguoi-lai-hon/</link>
+					<comments>https://wtruongg.github.io/mywordpresss/tpo-nhung-chiec-xe-dua-dang-co-xu-huong-tro-nen-thuc-dung-va-phu-hop-voi-nhieu-nguoi-lai-hon/#respond</comments>
+		
+		<dc:creator><![CDATA[Vo Van Truong]]></dc:creator>
+		<pubDate>Thu, 16 Sep 2021 14:19:54 +0000</pubDate>
+				<category><![CDATA[Siêu Xe]]></category>
+		<category><![CDATA[dattien]]></category>
+		<category><![CDATA[ferrari]]></category>
+		<category><![CDATA[sieuxe]]></category>
+		<guid isPermaLink="false">https://wtruongg.github.io/mywordpresss/?p=297</guid>
+
+					<description><![CDATA[Những chiếc xe đua đang có xu hướng trở nên thực dụng và phù hợp với nhiều người lái hơn.]]></description>
+		
+					<wfw:commentRss>https://wtruongg.github.io/mywordpresss/tpo-nhung-chiec-xe-dua-dang-co-xu-huong-tro-nen-thuc-dung-va-phu-hop-voi-nhieu-nguoi-lai-hon/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Top 8 siêu xe nhanh nhất hành tinh</title>
+		<link>https://wtruongg.github.io/mywordpresss/top-10-sieu-xe-ferrari-manh-nhat-tung-duoc-san-xuat-2/</link>
+					<comments>https://wtruongg.github.io/mywordpresss/top-10-sieu-xe-ferrari-manh-nhat-tung-duoc-san-xuat-2/#respond</comments>
+		
+		<dc:creator><![CDATA[Vo Van Truong]]></dc:creator>
+		<pubDate>Thu, 16 Sep 2021 14:07:02 +0000</pubDate>
+				<category><![CDATA[Siêu Xe]]></category>
+		<category><![CDATA[dattien]]></category>
+		<category><![CDATA[ferarri]]></category>
+		<category><![CDATA[sieuxe]]></category>
+		<guid isPermaLink="false">https://wtruongg.github.io/mywordpresss/?p=118</guid>
+
+					<description><![CDATA[TPO - Các kỷ lục tốc độ tối đa của ôtô luôn lần lượt bị xô đổ qua thời gian bởi những siêu xe hàng đầu với động cơ mạnh mẽ nhất.]]></description>
+		
+					<wfw:commentRss>https://wtruongg.github.io/mywordpresss/top-10-sieu-xe-ferrari-manh-nhat-tung-duoc-san-xuat-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Top 3 siêu xe Ferrari mạnh nhất từng được sản xuất</title>
+		<link>https://wtruongg.github.io/mywordpresss/top-10-sieu-xe-ferrari-manh-nhat-tung-duoc-san-xuat/</link>
+					<comments>https://wtruongg.github.io/mywordpresss/top-10-sieu-xe-ferrari-manh-nhat-tung-duoc-san-xuat/#respond</comments>
+		
+		<dc:creator><![CDATA[Vo Van Truong]]></dc:creator>
+		<pubDate>Thu, 16 Sep 2021 03:43:30 +0000</pubDate>
+				<category><![CDATA[Siêu Xe]]></category>
+		<category><![CDATA[ferrari]]></category>
+		<category><![CDATA[sieuxe]]></category>
+		<guid isPermaLink="false">https://wtruongg.github.io/mywordpresss/?p=127</guid>
+
+					<description><![CDATA[Dưới đây là danh sách 10 siêu xe mạnh mẽ nhất từng được Ferrari sản xuất trong lịch sử, trước khi siêu phẩm SF90 Stradale 1.000 mã lực ra đời]]></description>
+		
+					<wfw:commentRss>https://wtruongg.github.io/mywordpresss/top-10-sieu-xe-ferrari-manh-nhat-tung-duoc-san-xuat/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

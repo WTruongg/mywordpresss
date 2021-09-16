@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Các phản hồi luận về: TPO &#8211; Những chiếc xe đua đang có xu hướng trở nên thực dụng và phù hợp với nhiều người lái hơn.	</title>
+	<atom:link href="http://localhost/myproject/wordpress/tpo-nhung-chiec-xe-dua-dang-co-xu-huong-tro-nen-thuc-dung-va-phu-hop-voi-nhieu-nguoi-lai-hon/feed/" rel="self" type="application/rss+xml" />
+	<link>https://wtruongg.github.io/mywordpresss/tpo-nhung-chiec-xe-dua-dang-co-xu-huong-tro-nen-thuc-dung-va-phu-hop-voi-nhieu-nguoi-lai-hon/</link>
+	<description>Hãng siêu Ferrari số 1 tại Việt Nam</description>
+	<lastBuildDate>Thu, 16 Sep 2021 14:29:49 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+</channel>
+</rss>
